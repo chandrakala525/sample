@@ -1,0 +1,6 @@
+[https://www.transifex.com]
+api_hostname = https://api.transifex.com
+hostname = https://www.transifex.com
+password = 1/64fe96c2cf431255d1642101fd5ebf424e8e2f3d
+username = api
+

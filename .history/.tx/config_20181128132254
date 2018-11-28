@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+lang_map = en_US: en_us, fr_FR: fr_fr, fr_CA: fr_ca, de_DE: de_de, pl_PL: pl_pl
+
+[sample-31.resource2-en-us-json]
+file_filter = locale/translation/<lang>.json
+# minimum_perc = 0
+source_file = locale/resource2_en_US.json
+source_lang = en_US
+type = KEYVALUEJSON

@@ -1,0 +1,36 @@
+{
+    "key1": {
+        "message": "Administrators are people that manage the organization.",
+        "description": "Additional context"
+    },
+    "key2": {
+        "message": "Keep me up to date with Transifex news",
+        "description": "Additional context"
+    },
+    "key3": {
+        "message": "Connect with users on Transifex",
+        "description": "Additional context",
+        "placeholders": {
+            "amount": {
+                "var1": "$1",
+                "var2": "2"
+            }
+        }
+    },
+    "key4": {
+        "message": "Programmers are people that manage the organization",
+        "description": "Additional context"
+    },
+    "key5": {
+        "message": "Programmers are people that manage the organization",
+        "description": "Additional context"
+    },
+    "key6": {
+        "message": "Programmers are people that manage the organization",
+        "description": "Additional context"
+    },
+    "key7": {
+        "message": "Programmers are people that manage the organization",
+        "description": "Additional context"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "key1": {
+        "message": "Sam arbeitet in der xyz-Organisation.",
+        "description": "Additional context"
+    },
+    "key2": {
+        "message": "Keep her up to date with Transifex translations",
+        "description": "Additional context"
+    },
+    "key3": {
+        "message": "Connect with translators to translate text",
+        "description": "Additional context",
+        "placeholders": {
+            "amount": {
+                "var1": "5"
+            }
+        }
+    }
+}
